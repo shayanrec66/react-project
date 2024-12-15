@@ -1,0 +1,37 @@
+function Contact(){
+    return(
+        <>
+                <h1>
+                contact
+                </h1>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta exercitationem obcaecati provident eveniet quasi. Nulla enim repellendus quidem eos et odit placeat saepe fugit praesentium ab sint, unde eveniet consectetur ea impedit voluptatem veritatis vel delectus. Illo dolores alias quis tempore ullam asperiores dolorum minus. Mollitia adipisci exercitationem ad iste modi tenetur at magni molestias vero vel. Quisquam officiis voluptate natus totam saepe illum earum quidem officia expedita laboriosam fuga suscipit, minus neque delectus possimus ipsam impedit optio accusamus. Necessitatibus ad saepe excepturi sit fuga molestias quis quia quasi, ea voluptatibus obcaecati quas ullam molestiae doloribus non vero dicta.
+                </p>
+        </>
+    )
+}
+export default Contact;
